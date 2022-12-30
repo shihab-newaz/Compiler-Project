@@ -1,0 +1,56 @@
+@comprise stdio.h 
+@comprise math.h 
+main(){
+integer a $
+integer b,c $
+integer x $
+character p$
+p:=a$
+b:=10 mul 20 $
+a:=b $
+write <'1 add 2'> $
+write <'2 bit_and 4'> $
+write <'a mod b'> $
+write <'2 bit_or 4'> $
+write <'bit_not 0'> $
+write <"HELLO WORLD"> $
+integer i $
+
+sin 30$
+when(1)
+{x:=10$}
+
+add_one 30 $
+sub_one 30$
+write<'sqrt 49'>$
+write<'2^2'>$
+
+shift_to(1){
+case 1: 4<5$
+end$
+case 3:ln 10$
+end$
+if_failure:cos 30$
+}
+
+as_long_as(i := 10 ; i >= 3;i:= i sub 1){
+i:=10$
+}
+
+in_case(0)
+{
+   sin 30$
+}
+elif(0)
+{
+   sin 45$
+}
+else()
+{
+    x:=30$
+}
+write<'4<=5'>$
+write<'4>=5'>$
+//comment$
+}
+

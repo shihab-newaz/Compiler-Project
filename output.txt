@@ -1,0 +1,99 @@
+Header Declared
+Header Declared
+integer declaration
+
+END OF DECLARATION
+END OF STATEMENT
+integer declaration
+
+END OF DECLARATION
+END OF STATEMENT
+integer declaration
+
+END OF DECLARATION
+END OF STATEMENT
+character declaration
+
+END OF DECLARATION
+END OF STATEMENT
+END OF STATEMENT
+Multiplication of:10*20=200 
+ END OF STATEMENT
+END OF STATEMENT
+Addition of:1+2 = 3 
+The Expression is printed as: 3
+END OF STATEMENT
+Bitwise And :2 & 4 is 0
+ The Expression is printed as: 0
+END OF STATEMENT
+Mod :200 and 200 is 0 
+The Expression is printed as: 0
+END OF STATEMENT
+Bitwise Or  :2 | 4 is 6
+ The Expression is printed as: 6
+END OF STATEMENT
+Bitwise not :!0 is 1
+ The Expression is printed as: 1
+END OF STATEMENT
+The String is printed as: HELLO WORLD
+END OF STATEMENT
+integer declaration
+
+END OF DECLARATION
+END OF STATEMENT
+
+Value of Sin(30) is : 0.500001
+
+END OF STATEMENT
+Inside while loop
+END OF STATEMENT
+value is incremented from 30 to 31
+
+END OF STATEMENT
+value is decremented from 30 to 29
+
+END OF STATEMENT
+square root of 49 is  7.000000 
+The Expression is printed as: 7
+END OF STATEMENT
+Power of: 2^2 is: 4
+The Expression is printed as: 4
+END OF STATEMENT
+Less Than :4 < 5 
+
+Matched for Case: 1
+Value of Log base e(10) is 2.302585
+
+Value of Cos(30) is : 0.866025
+
+Switch case is declared
+END OF STATEMENT
+Loop execution
+Value of current index is 10
+Value of current index is 9
+Value of current index is 8
+Value of current index is 7
+Value of current index is 6
+Value of current index is 5
+Value of current index is 4
+Value of current index is 3
+END OF STATEMENT
+
+Value of Sin(30) is : 0.500001
+
+
+Value of Sin(45) is : 0.707108
+
+value of expression in ELSE: 30
+END OF STATEMENT
+Less Than Or Equal :4 <= 5 
+The Expression is printed as: 1
+END OF STATEMENT
+Greater than or equal :4 >= 5 
+ The Expression is printed as: 0
+END OF STATEMENT
+comment
+END OF STATEMENT
+
+END OF STATEMENT
+Main function END
